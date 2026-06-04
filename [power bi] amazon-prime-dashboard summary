@@ -1,12 +1,28 @@
-# amazon-prime-video-analytics-dashboard
-Interactive Amazon Prime Video Analytics Dashboard built using Power BI to analyse content, ratings, genres, and release trend
-## Dashboard Preview
+# Amazon Prime Video Analytics Dashboard
 
 ## Project Overview
-Interactive Amazon Prime Video Analytics Dashboard built using Power BI to analyze content, ratings, genres, and release trends.
+This Power BI dashboard provides insights into Amazon Prime Video content by analyzing titles, genres, ratings, popularity, release trends, and audience engagement metrics.
+
+## Dashboard Highlights
+- Total Titles: 10K+
+- Average IMDb Score: 7.71
+- Average TMDb Score: 18.01
+- Total IMDb Votes: 75M+
+- Average Runtime: 88.83 Minutes
+- Total Genres: 2K+
+
+## Key Insights
+- Analyzed content distribution across genres.
+- Identified top-rated titles based on IMDb scores.
+- Explored age certification trends.
+- Examined release year patterns.
+- Compared IMDb and TMDb ratings.
+- Created interactive filters for dynamic analysis.
 
 ## Tools Used
 - Power BI
-- DAX
 - Power Query
+- DAX
 - Data Visualization
+
+##
